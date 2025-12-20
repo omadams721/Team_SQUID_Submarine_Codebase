@@ -92,8 +92,3 @@ This project focuses on:
 
 # License
 This project was developed for educational purposes as part of UMD ENEE408V course.
-
-
-Help you polish this for final project submission
-
-Just say the word.
